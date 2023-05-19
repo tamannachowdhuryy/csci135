@@ -1,0 +1,1 @@
+Using what you’ve learned, we will create a dictionary. Later, we will implement Hangman using the dictionary.
